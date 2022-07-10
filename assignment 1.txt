@@ -1,0 +1,122 @@
+1)#include<stdio.h>
+int main(){
+
+  printf("\"my sirg\"");
+  return 0;
+}
+out put:
+"my sirg"
+
+ 2) 
+#include<stdio.h>
+int main()
+{
+printf("\"\\n\"");
+
+}
+out put:
+"\n"
+
+3)
+#include<stdio.h>
+int main()
+{
+    int x=printf("ineuron");
+    printf("%d",x);
+    return 0;
+}
+
+output:
+ineuron7
+
+4)
+#include<stdio.h>
+int main()
+{
+    printf("hello");
+    return 0;
+}
+
+output:
+hello
+
+5)
+#include<stdio.h>
+int main()
+{
+    printf("hello\nstudents");
+    return 0;
+}
+
+output:
+hello
+students
+
+6)
+#include<stdio.h>
+int main()
+{
+    printf("\"my sirg\"");
+    return 0;
+}
+out put:
+"my sirg"
+7)
+#include<stdio.h>
+int main()
+{
+    printf("\"%%d\"");
+    return 0;
+}
+output:
+"%d"
+8)
+#include<stdio.h>
+int main()
+{
+    printf("\"\\\\\"");
+    return 0;
+}
+output:
+"\\"
+9)
+#include<stdio.h>
+int main()
+{
+   float area,radius;
+   printf("Enter radius");
+   scanf("%f",&radius);
+   area=3.14*radius*radius;
+   printf("Area of circle is %f having the radius %f");
+   return 0;
+
+}
+output:
+Enter radius 2
+Area of circle is 0.000000 having the radius 0.000000(sir please not work  my area .)
+10)
+#include<stdio.h>
+int main()
+{
+    int x=printf("length of string");
+    printf("\n");
+    printf("%d",x);
+    return 0;
+}
+output:
+length of string
+16
+11)
+
+#include<stdio.h>
+int main()
+{
+    printf("\"hello,Amit kumar\"");
+}
+output:
+"hello,Amit kumar"
+( sir question 10,11,please answer the two question you asked i apply the logic no out put.kindly )
+
+
+
+
